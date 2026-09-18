@@ -53,4 +53,4 @@
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-rehem-cordeiro-41a775352/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehemvitor@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehemvitor@gmail.com?subject=Contato%20via%20GitHub%20-%20Vitor%20Rehem&body=Ol%C3%A1%20Vitor!%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20uma%20oportunidade%20de%20est%C3%A1gio/projeto.)
