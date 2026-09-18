@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Vitor! 👋</h1>
+  <h1>Olá, eu sou Vitor! 👋</h1>
   <p>Estudante de Engenharia de Software | Desenvolvedor Back-end</p>
 </div>
 
@@ -52,5 +52,5 @@
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-rehem-cordeiro-41a775352/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehemvitor@gmail.com)
