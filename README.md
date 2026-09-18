@@ -7,11 +7,11 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Estudante do 4º semestre de **Engenharia de Software** na Universidade Católica do Salvador (UCSAL).
-- 💻 Focado na construção de sistemas robustos, arquitetura de software e desenvolvimento de APIs.
-- ⚙️ Desenvolvendo ativamente projetos com **Java, Python e Spring Boot**, integrados a bancos de dados como PostgreSQL.
-- 🚀 Colaborador na construção do sistema de orçamentos **WeBuild**, além de contribuições em ferramentas de segurança e IA (**VeilSec** e **AegisLLM**).
-- 🌍 Possuo inglês avançado e estou sempre em busca de novos desafios técnicos.
+-  Estudante do 4º semestre de **Engenharia de Software** na Universidade Católica do Salvador (UCSAL).
+-  Focado na construção de sistemas robustos, arquitetura de software e desenvolvimento de APIs.
+-  Desenvolvendo ativamente projetos com **Java, Python e Spring Boot**, integrados a bancos de dados como PostgreSQL.
+-  Colaborador na construção do sistema de orçamentos **WeBuild**, além de contribuições em ferramentas de segurança e IA (**VeilSec** e **AegisLLM**).
+-  Possuo inglês avançado e estou sempre em busca de novos desafios técnicos.
 
 ---
 
